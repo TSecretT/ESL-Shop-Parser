@@ -1,6 +1,11 @@
-##Usage:
-`from ESL import ESL
-esl = ESL()`
+# ESL Shop Parser
 
-then to start pasring simply type `esl.parse()` 
-all data by default will be saved in the folder named `Items`
+Source: [Link](https://shop.eslgaming.com/)
+
+Usage: \
+`import ESL from ESL`\
+and\
+`ESL=ESL()`
+
+ToDo List:\
+- [ ] Convert prices into local currencies
